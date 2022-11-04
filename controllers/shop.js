@@ -31,13 +31,13 @@ exports.getProduct = (req, res, next) => {
   //Product.findById(prodId)
   //.then(product=>{
     //res.render('shop/product-detail',{
-     // product:product,
+      //product:product,
       //pageTitle:product.title,
       //path:'/products'
     //});
   //}).catch(err=>{
-   // console.log(err);
- // })
+    //console.log(err);
+  //})
 };
 
 exports.getIndex = (req, res, next) => {
